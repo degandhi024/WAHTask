@@ -1,0 +1,34 @@
+{
+	"banners":{
+		"banner-1":{
+			"title":"A Fair To Remember",
+			"description":"Two days of crafts, culture and cuisine",
+			"link":"#",
+			"image":"imgs/banner/banner-1.jpg"
+		},
+		"banner-2":{
+			"title":"30 Days, 3- Experiences, 1 You",
+			"description":"Abhi asli India nahin dekha!",
+			"link":"#",
+			"image":"imgs/banner/banner-2.jpg"
+		},
+		"banner-3":{
+			"title":"Our Prices",
+			"description":"Tere mere beach mein",
+			"link":"#",
+			"image":"imgs/banner/banner-3.jpg"
+		},
+		"banner-4":{
+			"title":"Delhi In A Day",
+			"description":"Mughals, Spices Bazaars &amp; A WAH Maverick",
+			"link":"#",
+			"image":"imgs/banner/banner-4.jpg"
+		},
+		"banner-5":{
+			"title":"Get Off The Beaten Track",
+			"description":"Adventure is out there",
+			"link":"#",
+			"image":"imgs/banner/banner-5.jpg"
+		}
+	}
+}

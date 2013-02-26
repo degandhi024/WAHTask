@@ -1,0 +1,34 @@
+{
+	"testimonials":{
+		"testi-1":{
+			"name":"Yati Arora",
+			"city":"New Delhi",
+			"image":"imgs/testimonials/testi-1.jpg",
+			"where":"Mauritius, Dubai",
+			"when":"August, 2012",
+			"rate":"5",
+			"say":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean condimentum, oric id dignissim facilisis, turpis eros blandit justo, vitae semper nigh massa vel dolor. Ut felis libero, mollis at facilisis ut, consequat in odio. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubili Curae; Suspendisse semper, risus placerat iaculis pharetra, eros mi dignissum risus, adipiscing aliquam eros eros sit amet eros.",
+			"link":"#"
+		},
+		"testi-2":{
+			"name":"Pankaj Sharma",
+			"city":"New Delhi",
+			"image":"imgs/testimonials/testi-2.jpg",
+			"where":"Goa",
+			"when":"August, 2012",
+			"rate":"5",
+			"say":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean condimentum, oric id dignissim facilisis, turpis eros blandit justo, vitae semper nigh massa vel dolor. Ut felis libero, mollis at facilisis ut, consequat in odio. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubili Curae; Suspendisse semper, risus placerat iaculis pharetra, eros mi dignissum risus, adipiscing aliquam eros eros sit amet eros.",
+			"link":"#"
+		},
+		"testi-3":{
+			"name":"Disha Jain",
+			"city":"New Delhi",
+			"image":"imgs/testimonials/testi-3.jpg",
+			"where":"Ladakh",
+			"when":"August, 2012",
+			"rate":"5",
+			"say":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean condimentum, oric id dignissim facilisis, turpis eros blandit justo, vitae semper nigh massa vel dolor. Ut felis libero, mollis at facilisis ut, consequat in odio. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubili Curae; Suspendisse semper, risus placerat iaculis pharetra, eros mi dignissum risus, adipiscing aliquam eros eros sit amet eros.",
+			"link":"#"
+		}
+	}
+}
